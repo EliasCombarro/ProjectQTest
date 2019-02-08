@@ -1,4 +1,4 @@
-name: ProjectQTest
+name: ProjectQTest 
 channels:
   - conda-forge
 dependencies:
